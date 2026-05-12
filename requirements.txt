@@ -1,0 +1,4 @@
+trafilatura
+reportlab
+requests
+beautifulsoup4
