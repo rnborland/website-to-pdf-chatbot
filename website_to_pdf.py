@@ -9,8 +9,9 @@ from reportlab.lib.units import inch
 from xml.sax.saxutils import escape
 from datetime import datetime
 
-START_URL = "https://anywebsite.com"
-MAX_PAGES = 30
+
+START_URL = "https://example.com"
+MAX_PAGES = 20
 
 OUTPUT_FILE = f"website_knowledge_base_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf"
 
