@@ -15,7 +15,7 @@ Website
 → Generate chatbot
 → Deploy HTML chatbot
 
-Features
+# Features
 Same-domain website crawling
 Internal link discovery
 Multi-page PDF generation
@@ -48,12 +48,12 @@ Create embed/demo page using:
 
 https://github.com/rnborland/HTML-chatbot-generator
 
-Related Projects
+# Related Projects
 https://pdf-insights.ai
 https://github.com/rnborland/HTML-chatbot-generator
 Open Source Components Used
 
-This project builds upon several excellent open-source projects:
+# This project builds upon several excellent open-source projects:
 
 Trafilatura
 https://github.com/adbar/trafilatura
